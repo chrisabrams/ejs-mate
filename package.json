@@ -5,7 +5,7 @@
     "Robert Sköld <robert@publicclass.se> (http://publicclass.se)",
     "Tom Carden <tom@tom-carden.co.uk>"
   ],
-  "name": "ejs-mate",
+  "name": "ejs-mate2",
   "description": "Express 4.x locals for layout, partial.",
   "version": "3.0.0",
   "repository": {
